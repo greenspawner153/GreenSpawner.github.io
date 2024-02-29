@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+#PFPImage{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 100px;
+    
+}
+#NameH1{
+    text-align: center;
+    font-size: 100px;
+    color: aliceblue;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#infoDivHomepage{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#informationH3{
+
+}
+#WhoAmI{
+    font-size: 20px;
+}
+#PFPdiv{
+
+}
+#MenuButton{
+    font-size: 20px;
+    background-color: rgb(14, 206, 206);
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
