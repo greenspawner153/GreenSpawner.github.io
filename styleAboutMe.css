@@ -1,0 +1,25 @@
+.intro{
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.intro h1{
+    font-size: 45px;
+    margin-top: 0px;
+}
+
+.ILoveTo{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.Childhood{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 10px;
+    word-spacing: 1px;
+    margin-top: 2px;
+}
