@@ -1,0 +1,12 @@
+.introWords {
+    color: white;
+    text-align: center;
+}
+.introWords h1{
+    font-size: 100px;
+}
+.introWords p{
+    font-size: 30px;
+    line-height: 40px;
+    
+}
